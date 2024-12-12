@@ -48,7 +48,8 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199641859-1ebade5e-7bb4-4047-aa4b-89ae1d934ba0.png)
 
 ## OUTPUT:
-![Screenshot 2024-12-12 110036](https://github.com/user-attachments/assets/6d1a845c-ee1e-45cf-97aa-964d86915163)
+![Screenshot 2024-11-27 142514](https://github.com/user-attachments/assets/ed7b2525-8ef5-46d9-bed2-0c419e66c7e4)
+
 
 
 ## RESULT:
